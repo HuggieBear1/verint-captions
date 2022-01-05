@@ -11,7 +11,7 @@
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
-
+Lots of info
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
 
 #### Git
