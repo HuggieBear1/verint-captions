@@ -1,7 +1,8 @@
 # GitHub for Developers
 
-- Class Date: January 4 - 5, 2022
-- Facilitator: @andrew-scoppa
+- Class Date: January 4 - 5, 2022 xxxx yyyyyy
+- Facilitator: @andrew-scoppa asdasdasdasdasdasdasd
+- asdasdasdad
 
 ## Class Resources
 
@@ -11,7 +12,7 @@
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
-
+Lots of info
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
 
 #### Git
