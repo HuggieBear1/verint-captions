@@ -3,14 +3,15 @@
 - Class Date: January 4 - 5, 2022 xxxx yyyyyy
 - Facilitator: @andrew-scoppa asdasdasdasdasdasdasd
 - asdasdasdad
-
+- asdasdasd
+- 
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
-
+dsdfsdfsdf
 <details>
 Lots of info
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
