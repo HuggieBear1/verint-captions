@@ -2,6 +2,7 @@
 
 - Class Date: January 4 - 5, 2022 xxxx yyyyyy
 - Facilitator: @andrew-scoppa asdasdasdasdasdasdasd
+- asdasdasdad
 
 ## Class Resources
 
