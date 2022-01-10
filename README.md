@@ -4,7 +4,10 @@
 - Facilitator: @andrew-scoppa asdasdasdasdasdasdasd
 - asdasdasdad
 - asdasdasd
-- 
+- asdasd
+
+
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
